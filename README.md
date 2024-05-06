@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/msoumen097](https://github.com/msoumen097)
 - 👨‍💻 Launched My First Web App in Streamlit Link : [https://startup-analysis-web-app.streamlit.app/](https://startup-analysis-web-app.streamlit.app)
-- 👨‍💻 Launched My First Web App in Streamlit Link : [https://smenai.streamlit.app/](https://smenai.streamlit.app)
+- 👨‍💻 Launched My Second Web App in Streamlit Link : [https://smenai.streamlit.app/](https://smenai.streamlit.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
